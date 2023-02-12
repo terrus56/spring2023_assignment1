@@ -3,6 +3,6 @@
 =======
 # spring2023_assignment1
 Person 1: Richard Terruso
-Person 3: William Fimple
-	Added email column to sql file that is 30 characters long. This stores a users email address. Wow!
+Person 2: William Fimple
+	Added status column which is represented by a single character value
 >>>>>>> Stashed changes

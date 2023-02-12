@@ -12,7 +12,7 @@ id      int auto_increment primary key
 
 ,active boolean     NOT NULL
 
-,email varchar(30)
+,status CHAR(1)
 
 ,comments   text        
 
